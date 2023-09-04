@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_movil/src/presentation/screens/cliente_screen.dart';
 import 'package:flutter_movil/src/presentation/screens/inicio_screen.dart';
 import 'package:flutter_movil/src/presentation/screens/login_screen.dart';
-import 'package:flutter_movil/src/presentation/screens/register_screen.dart';
 import 'package:flutter_movil/src/presentation/screens/welcome_screen.dart';
 
 void main() => runApp(const MyApp());
